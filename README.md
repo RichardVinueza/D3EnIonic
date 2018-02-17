@@ -1,4 +1,4 @@
-# Move a Line when user click using D3 in Ionic
+# Moving a Line driven by user clicks using D3 in Ionic
 
 It's just that...
 
